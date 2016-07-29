@@ -69,7 +69,7 @@ function sendImage() {
     }, 1000);
 }
 
-img.src = 'bastion.jpg';
+img.src = 'bastion.png';
 img.onload = function () {
     'use strict';
 
